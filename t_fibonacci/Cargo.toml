@@ -1,0 +1,5 @@
+[package]
+name = "t_fibonacci"
+version = "0.1.0"
+license = "MIT"
+authors = ["Nobuhiro Nakamura <lefb766@live.jp>"]
